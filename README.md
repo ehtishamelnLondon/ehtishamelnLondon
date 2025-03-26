@@ -48,13 +48,6 @@ Hey there! I'm **Ehtisham**, a passionate **Data Analytics Expert** working at *
 
 ---
 
-## 📌 Latest Projects
-🔹 **[Project 1](./project-1/README.md)** – Data Analysis on XYZ  
-🔹 **[Project 2](./project-2/README.md)** – Machine Learning Predictions  
-🔹 **[Project 3](./project-3/README.md)** – Web Scraping & Automation  
-🔹 **[More Projects...](https://github.com/ehtishamelnLondon?tab=repositories)**  
-
----
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
