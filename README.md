@@ -29,10 +29,6 @@ Hey there! I'm **Ehtisham**, a passionate **Data Analytics Expert** working at *
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehtishamelnLondon&theme=tokyonight​" width="100%">
-</div>
 
 
 ---
